@@ -1,6 +1,6 @@
-# Iosevka-curly-slab WebFont 17.1.0
+# Iosevka Curly Slab WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-curly-slab/Iosevka-curly-slab.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevka curly slab Web'` or `font-family: 'Iosevka curly slab Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevka-curly-slab/iosevka-curly-slab-unhinted.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Curly Slab Web'` or `font-family: 'Iosevka Curly Slab Web'`.
