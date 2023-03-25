@@ -1,4 +1,4 @@
-# Iosevka Curly Slab WebFont 21.1.0
+# Iosevka Curly Slab WebFont 21.1.1
 
 ## How to use
 
